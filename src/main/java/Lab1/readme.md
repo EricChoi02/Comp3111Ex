@@ -1,2 +1,1 @@
 It is a readme.md file.
-<img src="&lt;a href=&quot;https://ibb.co/nfjGGj5&quot;&gt;&lt;img src=&quot;https://i.ibb.co/Y8hCChq/Lab1-screenshot.png&quot; alt=&quot;Lab1-screenshot&quot; border=&quot;0&quot;&gt;&lt;/a&gt;"/>
